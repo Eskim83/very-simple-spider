@@ -6,7 +6,7 @@ A simple yet extensible web crawler written in PHP 8.2+. Supports `robots.txt`, 
 📚 Version 1.0 + article (in Polish): [Scraping a page offline in PHP](https://eskim.pl/pobieranie-strony-offline-w-php/)  
 🌍 Author's website: [https://eskim.pl](https://eskim.pl)  
 ☕ Donate: [https://buymeacoffee.com/eskim](https://buymeacoffee.com/eskim)  
-📜 License: [GNU GPL v2.0](https://www.gnu.org/licenses/gpl-2.0.html)
+📜 License: [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ---
 
