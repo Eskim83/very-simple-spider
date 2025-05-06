@@ -1,0 +1,25 @@
+{
+  "name": "eskim83/very-simple-spider",
+  "description": "Dead simple PHP spider for crawling pages, rewritten for 2025",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "VerySimpleSpider\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "bin": [
+    "bin/crawl.php"
+  ],
+  "scripts": {
+    "start": "php bin/crawl.php"
+  },
+  "minimum-stability": "stable"
+}
